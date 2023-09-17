@@ -23,9 +23,9 @@ def temperatura_promedio(datos):
 
 # Ejemplo de uso:
 datos_temperatura = {
-    'Ciudad QUITO': [ 25 , 27 , 26 , 28 ] ,
-    'Ciudad GUAYAQUIL': [ 22 , 23 , 21 , 24 ] ,
-    'Ciudad CUENCA': [ 29 , 30 , 28 , 31 ]
+    'Ciudad QUITO': [ 15 , 16 , 15 , 14 ] ,
+    'Ciudad GUAYAQUIL': [ 30 , 31 , 29 , 32 ] ,
+    'Ciudad CUENCA': [ 20 , 19 , 21 , 18 ]
 }
 
 temperaturas_promedio = temperatura_promedio ( datos_temperatura )
