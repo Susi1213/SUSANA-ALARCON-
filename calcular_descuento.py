@@ -12,7 +12,7 @@ print ( f"Descuento aplicado: ${descuento1}" )
 print ( f"Monto final a pagar: ${monto_final1}" )
 
 # Llamada a la función proporcionando tanto el monto total de la compra como el porcentaje de descuento
-monto_compra2 = 200
+monto_compra2 = 300
 porcentaje_descuento2 = 15
 descuento2 , monto_final2 = calcular_descuento ( monto_compra2 , porcentaje_descuento2 )
 print ( "\nLlamada con monto y porcentaje personalizado:" )
